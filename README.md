@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanilsonDaCosta21&layout=compact&langs_count=7&theme=dracula"/>
  </div>  ##
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IvanilsonDaCosta21&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IvanilsonDaCosta21&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
   
   
   
